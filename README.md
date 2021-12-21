@@ -24,3 +24,5 @@
 
 ##### Minha rede social 👇
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussilva2/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatSilva1&layout=compact)](https://github.com/MatSilva1/github-readme-stats)
