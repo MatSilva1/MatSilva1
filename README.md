@@ -4,8 +4,6 @@
 
 ##### *Busco meu primeiro emprego ou estagio na area de desenvolvimento*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatSilva1&show_icons=true&theme=dark)
-
 ##### Tecnologias que tenho contato 👇
 
 <div align="center">
